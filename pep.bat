@@ -1,0 +1,1 @@
+node Pinterest1.js "credentials.json" "Pizza" "homemade" 50 "NICE IMAGE" "Cars"
